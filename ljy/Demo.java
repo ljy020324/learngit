@@ -10,7 +10,7 @@ a.SchoolSystem(10,15,20);
 while(a.addStudent(array)){
  a.addStudent(array);
 }
-System.out.println("班级学生信息为");
+System.out.println("班级学生信息为为为");
 a.print(array);
 }
 }
